@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "apputils",
+        "arange",
         "buildutils",
         "celltags",
         "codeeditor",
@@ -14,12 +15,14 @@
         "documentsearch",
         "domutils",
         "dragdrop",
+        "dtype",
         "extensionmanager",
         "filebrowser",
         "fileeditor",
         "htmlviewer",
         "imageviewer",
         "incompat",
+        "itemsize",
         "jlpm",
         "jsxtools",
         "jupyterlab",
@@ -36,6 +39,9 @@
         "metapackage",
         "nbconvert",
         "nbformat",
+        "nbytes",
+        "ndim",
+        "numpy",
         "outputarea",
         "Parens",
         "pluginmanager",
@@ -49,6 +55,14 @@
         "stylelintcache",
         "tsbuildinfo",
         "virtualdom",
-        "ydoc"
+        "ydoc",
+        "آرایه",
+        "ابعاد",
+        "ارایه",
+        "اندازه",
+        "بعاد",
+        "تعداد",
+        "خانه",
+        "داده"
     ]
 }
