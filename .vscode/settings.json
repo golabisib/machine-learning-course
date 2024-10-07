@@ -2,6 +2,8 @@
     "cSpell.words": [
         "apputils",
         "arange",
+        "argmax",
+        "argmin",
         "buildutils",
         "celltags",
         "codeeditor",
